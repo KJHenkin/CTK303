@@ -1,0 +1,27 @@
+body {
+  background-color: #ADD8E6 ;
+  background position: center ;
+  font-size: 15px;
+  font-family: Marker Felt, Fantasy;
+  background-repeat: no-repeat;
+  border-color: none;
+}
+
+
+h1 {
+  font size: 20px;
+  border: 2 px solid black;
+  text-align: center;
+
+}
+
+
+#wrapper {
+  width: 960px;
+  border: 1px solid #ff0000;
+  margin: 1em auto;
+  padding: 1em;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+ grid-template-rows: 100px auto 75px;
+}
