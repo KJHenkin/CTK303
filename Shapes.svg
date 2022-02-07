@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 873 900">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #afafae;
+        stroke: #000;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #d1ba34;
+        stroke: #eaea13;
+      }
+
+      .cls-14, .cls-15, .cls-2 {
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        fill: #e00a4c;
+        stroke: #7e0047;
+      }
+
+      .cls-3, .cls-8 {
+        stroke-width: 6px;
+      }
+
+      .cls-4 {
+        fill: #462782;
+        stroke: #ba9bc9;
+      }
+
+      .cls-5 {
+        fill: #b7e588;
+        stroke: #006837;
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-5 {
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: #d88241;
+        stroke: #c1272d;
+        stroke-width: 10px;
+      }
+
+      .cls-7 {
+        fill: #930707;
+        stroke: red;
+        stroke-width: 3px;
+      }
+
+      .cls-8 {
+        fill: #9062d1;
+        stroke: #20075b;
+      }
+
+      .cls-9 {
+        fill: #379ad1;
+        stroke: #57b3d3;
+      }
+
+      .cls-10 {
+        fill: #14b22b;
+        stroke: #146620;
+        stroke-width: 8px;
+      }
+
+      .cls-11 {
+        fill: #12239e;
+        stroke: #05d1cb;
+      }
+
+      .cls-12 {
+        fill: #6de2af;
+        stroke: #22a873;
+      }
+
+      .cls-13 {
+        fill: #6eb5e0;
+        stroke: #0000a3;
+      }
+
+      .cls-14 {
+        fill: #dd4017;
+        stroke: #ad2b07;
+      }
+
+      .cls-15 {
+        fill: #5da508;
+        stroke: #277f00;
+      }
+
+      .cls-16 {
+        fill: #a30a62;
+        stroke: #4c021e;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="Background">
+    <rect class="cls-1" x="0.5" y="0.5" width="872" height="899"/>
+  </g>
+  <g id="Yellow">
+    <ellipse class="cls-2" cx="398.5" cy="185.5" rx="269" ry="163"/>
+  </g>
+  <g id="P_P" data-name="P&amp;P">
+    <ellipse class="cls-3" cx="684" cy="736" rx="101.5" ry="159.5"/>
+    <ellipse class="cls-4" cx="578.5" cy="224.5" rx="54" ry="205"/>
+  </g>
+  <g id="LightGreen">
+    <ellipse class="cls-5" cx="352.18" cy="613.14" rx="260" ry="174" transform="translate(-309.31 863.12) rotate(-80.7)"/>
+  </g>
+  <g id="Orange">
+    <ellipse class="cls-6" cx="601" cy="292.47" rx="193" ry="150" transform="translate(-64.03 232.26) rotate(-20.65)"/>
+  </g>
+  <g id="Red">
+    <ellipse class="cls-7" cx="719" cy="417" rx="128.5" ry="145"/>
+  </g>
+  <g id="Lavender">
+    <ellipse class="cls-8" cx="565" cy="548" rx="227" ry="207.5"/>
+  </g>
+  <g id="LightBlue">
+    <ellipse class="cls-9" cx="339.5" cy="310.4" rx="196.5" ry="124.5" transform="translate(-23.12 29.5) rotate(-4.56)"/>
+  </g>
+  <g id="Green">
+    <ellipse class="cls-10" cx="191.25" cy="460.5" rx="183.75" ry="151"/>
+  </g>
+  <g id="Blue">
+    <ellipse class="cls-11" cx="531" cy="487" rx="118" ry="185" transform="translate(-49.59 62.51) rotate(-6.28)"/>
+  </g>
+  <g id="M_B" data-name="M&amp;B">
+    <ellipse class="cls-12" cx="175" cy="760.37" rx="148.9" ry="73.24" transform="translate(-339.19 175.45) rotate(-28.31)"/>
+    <ellipse class="cls-13" cx="514" cy="834.5" rx="29.5" ry="23"/>
+  </g>
+  <g id="Coral">
+    <ellipse class="cls-14" cx="60.5" cy="135.5" rx="9" ry="25.5"/>
+  </g>
+  <g id="Magenta">
+    <ellipse class="cls-15" cx="794" cy="133.5" rx="10.75" ry="15"/>
+    <ellipse class="cls-16" cx="76" cy="659.5" rx="38.5" ry="20"/>
+  </g>
+</svg>
