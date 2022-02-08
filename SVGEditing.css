@@ -1,0 +1,26 @@
+
+#Background:hover{
+  fill: black;
+  transform: rotate(180deg);
+}
+
+
+#LightGreen:hover {
+transform: rotate(360deg);
+}
+
+
+#Orange:hover {
+  opacity: 25%;
+}
+
+
+
+#Blue:hover {
+transform: scale(1.1);
+}
+
+
+#Lavender:hover {
+  transform: scale(1.1);
+}
