@@ -8,7 +8,11 @@
 <title>Photo Portfolio</title>
 
   </head>
-  <body class="container">
+  <body>
+    .bg-success {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+}
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
@@ -27,7 +31,7 @@
           <a class="nav-link" href="#">Landscape/Cityscapes</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link disabled">COntact Info</a>
+          <a class="nav-link disabled">Contact Info</a>
         </li>
       </ul>
     </div>
